@@ -1,0 +1,14 @@
+vo ="aeouiAEOUI"
+vowels = 0
+consonants = 0
+text = input("Enter the text : ")
+
+for ch in text :
+    if ch.isalpha() :
+        if ch in vo :
+            vowels += 1
+        else:
+            consonants += 1
+
+print("vowels = ",vowels)
+print("consonants = ",consonants)
