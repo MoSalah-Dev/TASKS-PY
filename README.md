@@ -8,4 +8,5 @@ Python tasks and scripts for Level 1 - Zagazig University.
 * **Second Max Finder**: Identifies the second largest number in a list.
 * **Word Counter**: Counts words in a string using space detection.
 * **Sets Intersection**: Finds common elements between two lists using Sets.
-* **Vowels & Consonants Counter**: Analyzes text to count vowels and consonants specifically.
+* **Vowels & Consonants Counter**: Analyzes text to count vowels and consonants.
+* **Character Frequency Counter**: Counts how many times a specific character appears in a text.
