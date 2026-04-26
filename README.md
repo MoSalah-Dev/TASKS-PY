@@ -1,4 +1,4 @@
-# TASKS-PY 🐍
+# TASKS-PY 🔗
 Python tasks and scripts for Level 1 - Zagazig University.
 
 ### 🎯 Current Tasks:
@@ -10,3 +10,11 @@ Python tasks and scripts for Level 1 - Zagazig University.
 * **Sets Intersection**: Finds common elements between two lists using Sets.
 * **Vowels & Consonants Counter**: Analyzes text to count vowels and consonants.
 * **Character Frequency Counter**: Counts how many times a specific character appears in a text.
+* **Longest Word Finder**: Extracts the longest word from a string using functional programming logic.
+
+---
+### 🛠 Technologies Used:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+*Developed with ❤️ by MoSalah-Dev.*
