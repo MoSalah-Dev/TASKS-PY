@@ -11,6 +11,7 @@ Python tasks and scripts for Level 1 - Zagazig University.
 * **Vowels & Consonants Counter**: Analyzes text to count vowels and consonants.
 * **Character Frequency Counter**: Counts how many times a specific character appears in a text.
 * **Longest Word Finder**: Extracts the longest word from a string using functional programming logic.
+* **Positive Numbers Summator**: Filters user input to store and sum only positive integers, ignoring negatives and zeros.
 
 ---
 ### 🛠 Technologies Used:
